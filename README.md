@@ -7,7 +7,7 @@
 - ⚡ Fun fact:i know 🏯
 
 - I code in,
-    ![Uploading image.png…]()
+    
 
 
 
