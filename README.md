@@ -1,10 +1,13 @@
-![java](https://github.com/user-attachments/assets/23b95c68-d8f9-4743-a688-97643bdbb0ec)![java](https://github.com/user-attachments/assets/3a65ee09-c84e-45ec-bd11-a0bcd5887486)![java](https://github.com/user-attachments/assets/4a2c363e-cf6f-4c61-80ad-5c3e1ad0594c)![image](https://github.com/user-attachments/assets/94d44681-2420-432e-8dc5-f68a5f85d5fc)- 👋 Hi, I’m @anusuya
+- 👋 Hi, I’m @anusuya
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I'm currently learning OOPs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 - 😄 Pronouns:comaa
 - ⚡ Fun fact:i know 🏯
+
+- I code in,
+    https://camo.githubusercontent.com/4045f58fd000d13e93b7df07bd36e5949b13989ecc8718baf0e05e145901324a/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2e706e67
 
 
 
