@@ -12,7 +12,8 @@
 
 -IDE and tools i use,
 
-     ![image](https://github.com/user-attachments/assets/e47b92cc-f853-42af-ad60-f4673b20655a)  ![image](https://github.com/user-attachments/assets/2a8b6f45-0032-481a-8202-751d0a2b8e54)
+   ![image](https://github.com/user-attachments/assets/91c1ce8a-9a7b-476f-9c5e-6e4e7c7dfb4f)  ![image](https://github.com/user-attachments/assets/3146f28d-77d5-45b3-ae4b-fbe6260c1a0a)
+
 
 
   
