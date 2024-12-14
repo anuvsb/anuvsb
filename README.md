@@ -7,6 +7,8 @@
 - ⚡ Fun fact:i know 🏯
 
 - I code in,
+     ![image](https://github.com/user-attachments/assets/0916f437-0d59-4543-b3d1-a76fb50a3dfe)
+
     
 
 
