@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial intelligence
 - 🌱 I'm currently learning OOPs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 Reach me @ anusuyavsb35@gmail.com
 - 😄 Pronouns:comaa
 - ⚡ Fun fact:i know 🏯
 - 
