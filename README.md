@@ -14,7 +14,7 @@
 
    ![image](https://github.com/user-attachments/assets/91c1ce8a-9a7b-476f-9c5e-6e4e7c7dfb4f)  ![image](https://github.com/user-attachments/assets/3146f28d-77d5-45b3-ae4b-fbe6260c1a0a)
 
-  https://leetcard.jacoblin.cool/
+  https://leetcard.jacoblin.cool/anu22812281?theme=dark&font=Merriweather&ext=contest
 
   
 
